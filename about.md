@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About this blog
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am keen on the local history and for the last several years
+explore ghost towns in California. Posted my photos in Facebook,
+but I feel like I need to have a blog where I can share not only the photos, 
+but the history of the towns.
 
 
-[jekyll-organization]: https://github.com/jekyll
