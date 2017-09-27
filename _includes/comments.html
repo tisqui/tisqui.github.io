@@ -9,10 +9,9 @@
 				{% for comment in comments %}
 					{% assign email = comment[1].email %}
 					{% assign name = comment[1].name %}
-					{% assign date = comment[1].date %}
 					{% assign message = comment[1].message %}
 
-					{% include partials/post-comment.html index=forloop.index email=email name=name date=date message=message %}
+					{% include partials/post-comment.html index=forloop.index email=email name=name message=message %}
 				{% endfor %}
 			{% endif %}
 		</div>

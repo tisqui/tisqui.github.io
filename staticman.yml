@@ -1,5 +1,5 @@
 comments:
-allowedFields: ["name", "email", "url", "message"]
+allowedFields: ["name", "email", "message"]
 branch: "master"
 commitMessage: "New comment via Staticman"
 filename: "entry{@timestamp}"
@@ -12,11 +12,7 @@ format: "yaml"
   # the data file. Keys are the name of the field. The value can be an object
   # with a `type` property, which configures the generated field, or any value
   # to be used directly (e.g. a string, number or array)
-  generatedFields:
-    date:
-      type: date
-      options:
-        format: "timestamp-seconds"
+  
 
   # Whether entries need to be appproved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
