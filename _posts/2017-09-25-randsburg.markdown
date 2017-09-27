@@ -58,19 +58,17 @@ One of the attractions you can’t miss is the General store with a 1904 soda fo
 2. <i>[The Rand Mining District An Incomplete History HEMORRHOID XXIV – March 6014 Billy Holcomb Chapter 1069 – E Clampus Vitus](https://www.billyholcomb.com/wp-content/uploads/2016/09/6014Rand-Mining-District-History.pdf)</i>
 3. <i>[Randsburg,CA](http://digital-desert.com/randsburg-ca/)</i>
 
-[newspaper_screenshot]: {{site.url}}/assets/newspaper.png  "Map of the Randsburg Mining District towns"
-[1987_panorama]: {{site.url}}/assets/Panoramic_view_of_the_mining_town_of_Randsburg_California_ca1897.jpg "1987 town panorama"
-[2017_panorama]: {{site.url}}/assets/randsburg_panorama.jpg "1987 town panorama"
-[main_street]: {{site.url}}/assets/main_street.jpg "Randsburg Main street 2017"
-[grocery]: {{site.url}}/assets/grocery_store.jpg "Randsburg Grocery store 2017"
-[street]: {{site.url}}/assets/street.jpg "Randsburg street view"
-[local_business]: {{site.url}}/assets/local_business.jpg "Randsburg local business"
-[house]: {{site.url}}/assets/house.jpg "Randsburg houses"
-[map]: {{site.url}}/assets/mining_district_map.png "Google map screenshot pf the area"
+[newspaper_screenshot]: {{site.url}}/assets/img/25092017-Randsburg/newspaper.png  "Map of the Randsburg Mining District towns"
+[1987_panorama]: {{site.url}}/assets/img/25092017-Randsburg/Panoramic_view_of_the_mining_town_of_Randsburg_California_ca1897.jpg "1987 town panorama"
+[2017_panorama]: {{site.url}}/assets/img/25092017-Randsburg/randsburg_panorama.jpg "1987 town panorama"
+[main_street]: {{site.url}}/assets/img/25092017-Randsburg/main_street.jpg "Randsburg Main street 2017"
+[grocery]: {{site.url}}/assets/img/25092017-Randsburg/grocery_store.jpg "Randsburg Grocery store 2017"
+[street]: {{site.url}}/assets/img/25092017-Randsburg/street.jpg "Randsburg street view"
+[local_business]: {{site.url}}/assets/img/25092017-Randsburg/local_business.jpg "Randsburg local business"
+[house]: {{site.url}}/assets/img/25092017-Randsburg/house.jpg "Randsburg houses"
+[map]: {{site.url}}/assets/img/25092017-Randsburg/mining_district_map.png "Google map screenshot pf the area"
 
-<section>
-    {% include comments.html %}
-  </section>
+
 
   
 

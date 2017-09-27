@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Bodie in B&W"
+date:   2017-09-27 12:51:00 -0700
+---
+
+Every time I visit Bodie I am fascinated by this quiet sleeping town. Stayed there almost all day on May 28 2017. This time I felt like black & white is the best to show the town in it's full 19th century glory.
+
+![Town view][town_view1]
+
+>A town frozen in time in a “state of arrested decay”
+
+![Town view][town_view2]
+
+![Town view][town_view3]
+
+![Town view][town_view4]
+
+![Hotel][hotel1]
+
+![Hotel][hotel2]
+
+![School][school]
+
+![Gas Station][gas]
+
+![Pharmacy][pharmacy]
+
+![Inside the house][house1]
+
+![Inside the house][house2]
+
+![Inside the house][house3]
+
+![Inside the house][house4]
+
+![Inside the house][house5]
+
+![Inside the house][house6]
+
+![Inside the house][house7]
+
+![Inside the house][house8]
+
+![Inside the house][house9]
+
+![Inside the house][house10]
+
+![Inside the house][house11]
+
+![Inside the house][house12]
+
+![Inside the house][house13]
+
+![Inside the house][house14]
+
+![Inside the house][house15]
+
+![Inside the house][house16]
+
+![Inside the house][house17]
+
+![Inside the house][house18]
+
+![Inside the house][house19]
+
+![Inside the house][house20]
+
+![Inside the house][house21]
+
+![Inside the house][house22]
+
+
+
+[town_view1]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0052.jpg  "View of the Body from the hill"
+[town_view2]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0051.jpg  "View of the Body from the hill"
+[town_view3]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0046.jpg  "View of the Body from the hill"
+[town_view4]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0034.jpg  "View of the Body from the hill"
+
+
+[house1]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0022.jpg  "Inside the house"
+[house2]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0023.jpg  "Inside the house"
+[house3]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0024.jpg  "Inside the house"
+[house4]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0025.jpg  "Inside the house"
+[house5]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0026.jpg  "Inside the house"
+[house6]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0027.jpg  "Inside the house"
+[house7]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0028.jpg  "Inside the house"
+[house8]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0029.jpg  "Inside the house"
+[house9]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0030.jpg  "Inside the house"
+[house10]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0031.jpg  "Inside the house"
+[house11]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0032.jpg  "Inside the house"
+[house12]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0033.jpg  "Inside the house"
+[house13]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0035.jpg  "Inside the house"
+[house14]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0036.jpg  "Inside the house"
+[house15]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0037.jpg  "Inside the house"
+[house16]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0038.jpg  "Inside the house"
+[house17]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0044.jpg  "Inside the house"
+[house18]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0045.jpg  "Inside the house"
+[house19]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0047.jpg  "Inside the house"
+[house20]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0048.jpg  "Inside the house"
+[house21]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0049.jpg  "Inside the house"
+[house22]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0050.jpg  "Inside the house"
+
+[hotel1]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0039.jpg  "Bodie Hotel"
+[hotel2]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0041.jpg  "Bodie Hotel"
+[school]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0040.jpg  "Bodie School"
+[gas]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0042.jpg  "Bodie Gas Station"
+[pharmacy]: {{site.url}}/assets/img/27092017-BodieBW/IMG_0043.jpg  "Bodie Pharmacy"
