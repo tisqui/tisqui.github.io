@@ -69,7 +69,6 @@ One of the attractions you can’t miss is the General store with a 1904 soda fo
 [map]: {{site.url}}/assets/mining_district_map.png "Google map screenshot pf the area"
 
 <section>
-    <h3>All comments</h3>
     {% include comments.html %}
   </section>
 

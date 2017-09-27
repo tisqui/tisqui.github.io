@@ -1,22 +1,19 @@
-<section class="comments">
-	<div class="constrain--body">
-		<div class="comments__existing js-comments" {% if site.data.comments[post_slug] == null %}aria-hidden="true"{% endif %}>
-			<h2 class="comments__heading heading-2">Comments</h2>
+<div class="js-comments">
+	<h2>Comments</h2>
+		{% assign comments = site.data.comments | sort %}
+		{% for comment in comments reversed %}
+		{% assign commentData = comment[1] %}
 
-			{% if site.data.comments[post_slug] %}
-				{% assign comments = site.data.comments[post_slug] | sort %}
-				
-				{% for comment in comments %}
-					{% assign email = comment[1].email %}
-					{% assign name = comment[1].name %}
-					{% assign message = comment[1].message %}
+		<article>
+		  <div>
+		  	<p><strong>Name: </strong>{{ commentData.name }}</p>
+		    <div>
+		    	{{ commentData.message | markdownify }}
+		    </div>
+		  </div>
+		</article>
+	{% endfor %}
 
-					{% include partials/post-comment.html index=forloop.index email=email name=name message=message %}
-				{% endfor %}
-			{% endif %}
-		</div>
-
-		<h2 class="comments__heading heading-2">Leave a comment</h2>
+	<h2>Leave a comment</h2>
 		{% include new_comment.html %}
-	</div>
-</section>
+</div>
