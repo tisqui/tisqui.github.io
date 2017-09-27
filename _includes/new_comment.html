@@ -1,0 +1,14 @@
+<form id="post-new-comment" class="form" action="https://api.staticman.net/v2/entry/tisqui/tisqui.github.io/master/comments" method="post">
+    <input type="hidden" name="options[slug]" value="{{ post_slug }}"/>
+    <input type="hidden" name="options[parent]" value="{{ post_slug }}"/>
+    <input type="hidden" name="options[origin]" value="{{ site.url }}{{ page.url }}"/>
+    
+    <input type="text" name="fields[name]" placeholder="Name" required maxlength="256" />
+    <br>
+    <input type="email" name="fields[email]" placeholder="Email address (will not be public)"  maxlength="256" required/>
+    <br>
+    <input type="address" name="fields[address]" placeholder="Address (do not fill!)" style="display: none"/>
+    <textarea rows="12" name="fields[message]" placeholder="Comment. Markdown is accepted." maxlength="1024" required></textarea>
+    <br> 
+    <input class="cta" type="submit" value="Send" />
+</form>
