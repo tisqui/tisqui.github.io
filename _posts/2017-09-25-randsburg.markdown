@@ -2,7 +2,6 @@
 layout: post
 title:  "Randsburg"
 date:   2017-09-26 12:32:00 -0700
-image: /assets/img/25092017-Randsburg/randsburg_panorama.jpg
 ---
 ![2017 town panorama][2017_panorama]
 
