@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   but I feel like I need to have a blog where I can share not only the photos, 
   but the history of the towns.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tisqui.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tisquirrel
 github_username:  jekyll
 
