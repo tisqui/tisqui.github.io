@@ -30,6 +30,7 @@ markdown: kramdown
 theme: jekyll-swiss
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -46,4 +47,9 @@ plugins:
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: yellow
+
+jekyll_analytics: 
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-107295987-1          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
