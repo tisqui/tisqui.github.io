@@ -26,7 +26,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 		</td>
 		<td valign="top">
 			<h2>B</h2>
-			<br>Ballarat
+			<br><a href="/2017/09/29/ballarat.html">Ballarat</a>
 			<br>Bear Valley
 			<br>Belfort
 			<br>Benton Hot Springs
