@@ -94,7 +94,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 		</td>
 		<td valign="top">
 			<h2>M</h2>
-			<br>Manzanar
+			<br><a href="/2017/10/03/manzanar.html">Manzanar</a>
 			<br>Mariposa
 			<br>Masonic
 			<h2></h2>
