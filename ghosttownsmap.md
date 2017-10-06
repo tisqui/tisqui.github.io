@@ -126,6 +126,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 		<td valign="top">
 			<h2>T</h2>
 			<br>Titus Canyon
+			<br><a href="/2017/10/06/Trona.html">Trona</a>
 			<h2></h2>
 		</td>
 		<td valign="top">
