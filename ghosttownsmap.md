@@ -37,7 +37,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 		</td>
 		<td valign="top">
 			<h2>C</h2>
-			<br>Calico 
+			<br><a href="/2017/10/06/Calico.html">Calico</a>
 			<br>Caliente
 			<br><a href="/2017/10/04/cerro-gordo.html">Cerro Gordo</a>
 			<br>China camp
