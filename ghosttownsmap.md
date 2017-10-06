@@ -42,6 +42,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 			<br><a href="/2017/10/04/cerro-gordo.html">Cerro Gordo</a>
 			<br>China camp
 			<br>Chinese Camp
+			<br><a href="/2017/10/04/masonic-mine.html">Chemung Mine(Masonic)</a>
 			<br>Chloride City
 			<br>Colonel Allensworth
 			<br>Coulterville
