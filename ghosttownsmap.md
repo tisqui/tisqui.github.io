@@ -142,25 +142,34 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 <h2>Nevada</h2>
 
 <table>
-	<td valign="top">
-		<h2>D</h2>
-		<br>Dayton
-		<h2></h2>
-	</td>
-	<td valign="top">
-		<h2>F</h2>
-		<br>Fort Churchill
-		<h2></h2>
-	</td>
-	<td valign="top">
-		<h2>G</h2>
-		<br>Genoa
-		<br>Gold Hill
-		<h2></h2>
-	</td>
-	<td valign="top">
-		<h2>V</h2>
-		<br><a href="/2017/10/06/Virginia-city.html">Virginia City</a>
-		<h2></h2>
-	</td>
+	<tr>
+		<td valign="top">
+			<h2>D</h2>
+			<br>Dayton
+			<h2></h2>
+		</td>
+		<td valign="top">
+			<h2>F</h2>
+			<br>Fort Churchill
+			<h2></h2>
+		</td>
+		<td valign="top">
+			<h2>G</h2>
+			<br>Genoa
+			<br>Gold Hill
+			<h2></h2>
+		</td>
+		<td valign="top">
+			<h2>V</h2>
+			<br><a href="/2017/10/06/Virginia-city.html">Virginia City</a>
+			<h2></h2>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<h2>S</h2>
+			<br><a href="/2017/10/09/Silver-city.html">Silver City</a>
+			<h2></h2>
+		</td>
+	</tr>
 </table>
