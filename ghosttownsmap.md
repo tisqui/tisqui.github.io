@@ -145,7 +145,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 	<tr>
 		<td valign="top">
 			<h2>D</h2>
-			<br>Dayton
+			<br><a href="/2017/10/11/dayton.html">Dayton</a>
 			<h2></h2>
 		</td>
 		<td valign="top">
@@ -156,7 +156,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 		<td valign="top">
 			<h2>G</h2>
 			<br>Genoa
-			<br>Gold Hill
+			<br><a href="/2017/10/08/Gold-hill.html">Gold Hill</a>
 			<h2></h2>
 		</td>
 		<td valign="top">
