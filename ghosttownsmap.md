@@ -150,7 +150,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 		</td>
 		<td valign="top">
 			<h2>F</h2>
-			<br>Fort Churchill
+			<br><a href="/2017/10/11/fort-churchill.html">Fort Churchill</a>
 			<h2></h2>
 		</td>
 		<td valign="top">
