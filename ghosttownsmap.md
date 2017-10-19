@@ -155,7 +155,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 		</td>
 		<td valign="top">
 			<h2>G</h2>
-			<br>Genoa
+			<br><a href="/2017/10/13/Genoa.html">Genoa</a>
 			<br><a href="/2017/10/08/Gold-hill.html">Gold Hill</a>
 			<h2></h2>
 		</td>
