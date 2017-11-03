@@ -17,7 +17,6 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 	<tr>
 		<td valign="top">
 			<h2>A</h2>
-			<br>Alico
 			<br>Amador City
 			<br>Amboy
 			<br>Ashford Mills Ruins
@@ -31,6 +30,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 			<br>Belfort
 			<br>Benton Hot Springs
 			<br><a href="/2017/09/27/bodie-bw.html">Bodie</a>
+			<br><a href="/2017/11/02/Bodega.html">Bodega</a>
 			<br>Boron
 			<br>Burro Schmidt Tunnel
 			<h2></h2>
