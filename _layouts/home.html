@@ -48,6 +48,17 @@
                 <div class="inline-block mt-3">
                   {% include {{ site.social_link | default: "twitter" }}.html %}
                 </div>
+                <div>
+                  <p class="h4 lh-condensed font-smoothing mt-2 py-1">
+                    <b>Latest posts:</b>
+                      {% for post in paginator.posts %}
+                      {% if true %}
+                       -  <a href="{{ post.url }}">{{ post.title }}</a>
+                      {% endif %}
+
+                      {% endfor %}
+                  </p>
+                </div>
             </div>
           </div>
 

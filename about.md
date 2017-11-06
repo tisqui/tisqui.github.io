@@ -28,4 +28,7 @@ My name is Galina. I live in Bay Area, California. My hobby is travelling around
 
 <br>
 
+{% for post in paginator.posts %}
+  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+{% endfor %}
 
