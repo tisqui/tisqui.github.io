@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bodie in B&W"
+comments: true
 date:   2017-09-27 12:51:00 -0700
 ---
 

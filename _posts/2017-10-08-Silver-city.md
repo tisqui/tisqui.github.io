@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Silver city"
+comments: true
 date:   2017-10-09 9:00:00 -0700
 ---
 

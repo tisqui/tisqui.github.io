@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Randsburg"
+comments: true
 date:   2017-09-26 12:32:00 -0700
 ---
 ![2017 town panorama][2017_panorama]

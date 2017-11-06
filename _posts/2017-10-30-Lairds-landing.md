@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Lairds Landing"
+comments: true
 date:   2017-10-30 12:00:00 -0700
 ---
 

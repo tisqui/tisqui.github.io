@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cerro Gordo"
+comments: true
 date:   2017-10-04 12:00:00 -0700
 ---
 

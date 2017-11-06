@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Garlock"
+comments: true
 date:   2017-09-27 12:32:00 -0700
 ---
 
