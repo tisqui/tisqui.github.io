@@ -33,7 +33,7 @@ plugins:
 
 #paginator settings
 paginate: 7
-paginate_path: "/tisqui.github.io/page:num/"
+paginate_path: "/page:num/"
 
 #Disqus settings
 disqus_shortname: ca-ghost-towns  
