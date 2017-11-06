@@ -5,9 +5,8 @@ comments: true
 date:   2017-10-11 12:00:00 -0700
 ---
 
-This is not an ordinary ghost town, as it was never a “town” - it was a military base. Built in 1861 to provide protection for early settlers and guard Pony Express mail runs. 
-
 ![Fort Churchill][fort1]
+This is not an ordinary ghost town, as it was never a “town” - it was a military base. Built in 1861 to provide protection for early settlers and guard Pony Express mail runs. 
 
 Today fort is preserved in a state of arrested decay within the [Fort Churchill State Historic Park](http://parks.nv.gov/parks/fort-churchill).
 

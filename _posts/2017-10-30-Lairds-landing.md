@@ -5,9 +5,8 @@ comments: true
 date:   2017-10-30 12:00:00 -0700
 ---
 
-This was one of my favorite trips to the unincorporated community. This place is located on the National Parks land and open to public, but secluded enough to keep people from visiting it. 
-
 ![Lairds Landing][lairds1]
+This was one of my favorite trips to the unincorporated community. This place is located on the National Parks land and open to public, but secluded enough to keep people from visiting it. 
 
 You have to drive several miles on the dirt road and have a 1 mile hike from the road ending to the actual place.
 Most of the places I visited before were abandoned long time ago. This place is uninhabited since 1995, when [Clayton Lewis](http://www.claytonlewis.net/index.html) died.

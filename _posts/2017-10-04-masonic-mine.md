@@ -5,9 +5,11 @@ comments: true
 date:   2017-10-04 12:00:00 -0700
 ---
 
-We planned to get the whole way to Masonic, but my 2WD with low clearance was not able to get through the dirt road and we had to stop 3-4 miles from the Masonic town. But we were able to visit the Chemung mine, which is in the lower portion of it. This is the small ghost settlement around the former gold mine.
-
 ![Chemung mine][chemung2]
+We planned to get the whole way to Masonic, but my 2WD with low clearance was not able to get through the dirt road and we had to stop 3-4 miles from the Masonic town. 
+
+But we were able to visit the Chemung mine, which is in the lower portion of it. This is the small ghost settlement around the former gold mine.
+
 
 ![Chemung mine][chemung1]
 

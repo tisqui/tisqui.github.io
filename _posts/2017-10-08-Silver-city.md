@@ -5,9 +5,8 @@ comments: true
 date:   2017-10-09 9:00:00 -0700
 ---
 
-On your way from Virginia city to Dayton there is the third "semi-ghost" town of the same mining district - Silver City. 
-
 ![Silver City][silver_city1]
+On your way from Virginia city to Dayton there is the third "semi-ghost" town of the same mining district - Silver City. 
 
 Settled in 1859, the population in 1861 was about 1,200, but began declining after the Virginia and Truckee Railroadwas completed in 1869.
 

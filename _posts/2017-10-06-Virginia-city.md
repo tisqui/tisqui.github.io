@@ -5,9 +5,10 @@ comments: true
 date:   2017-10-06 12:00:00 -0700
 ---
 
-Virginia City was the first “ghost town” I visited in Nevada. I was there twice - in 2015 and in 2017. This post will contain photos from both trips. Don't think Virginia City can be concidered a ghost town - there are a bunch of people still living there and a lot of local businesses - bars, shops, etc.
-
 ![Virginia City][virginia1]
+Virginia City was the first “ghost town” I visited in Nevada. I was there twice - in 2015 and in 2017. This post will contain photos from both trips. 
+
+Don't think Virginia City can be concidered a ghost town - there are a bunch of people still living there and a lot of local businesses - bars, shops, etc.
 
 Mark Twain is arguably Virginia City’s most famous early resident. He developed his writing style and adopted his famous penname in an almost two-year stay in booming Virginia City from late 1862 to May, 1864. (2) He worked for the local paper and his novel ["Roughing It”](https://en.wikipedia.org/wiki/Roughing_It)  is set in and around the city. 
 

@@ -5,11 +5,12 @@ comments: true
 date:   2017-09-26 12:32:00 -0700
 ---
 ![2017 town panorama][2017_panorama]
+I am planning to cover the history and current state of the Randsburg Mining District as I saw it during our trip in Feb 2017.
 
 >“Boys, we need not look any further, we have struck it rich."
 Mr. Mooers, one of the founders
 
-I am planning to cover the history and current state of the Randsburg Mining District as I saw it during our trip in Feb 2017. Visiting this area is a great experience for any fan of ghost towns - in couple of days you can visit the remaining ghost and semi-ghost towns of this area: Saltdale, Garlock, Ransburg, Johannesburg, Red Mountain, Atolia.
+ Visiting this area is a great experience for any fan of ghost towns - in couple of days you can visit the remaining ghost and semi-ghost towns of this area: Saltdale, Garlock, Ransburg, Johannesburg, Red Mountain, Atolia.
 
 ![Maps area screenshot][map]
 

@@ -5,11 +5,12 @@ comments: true
 date:   2017-10-04 12:00:00 -0700
 ---
 
-You definitely should visit this hidden ghost town if you happen to be in Keeler, as this is one of the most authentic mining ghost towns you can find now. It is rather distant, so not many people get here. I visited this town in 2015 on Memorial Day weekend and back then there was no need to book the tour in advance. But now the rules changed and you need to visit town's website to abotain the permission - [cerrogordomines.com](http://cerrogordomines.com/). Cerro Gordo is privately owned and currently a ghost town and tourist attraction. It still has several buildings including the general store and the American Hotel, several residential buildings and mine buildings.
+![Road to Cerro Gordo][road_1]
+You definitely should visit this hidden ghost town if you happen to be in Keeler, as this is one of the most authentic mining ghost towns you can find now. 
+
+It is rather distant, so not many people get here. I visited this town in 2015 on Memorial Day weekend and back then there was no need to book the tour in advance. But now the rules changed and you need to visit town's website to abotain the permission - [cerrogordomines.com](http://cerrogordomines.com/). Cerro Gordo is privately owned and currently a ghost town and tourist attraction. It still has several buildings including the general store and the American Hotel, several residential buildings and mine buildings.
 
 Cerro Gordo is 8500ft above the sea level, so you should better have a car that can survive the steep dirty road. There are about 8 miles of dirt road before you see the town.
-
-![Road to Cerro Gordo][road_1]
 
 ![Road to Cerro Gordo][road_2]
 
