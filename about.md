@@ -26,4 +26,6 @@ My name is Galina. I live in Bay Area, California. My hobby is travelling around
 
 [sierra]: {{site.url}}/assets/img/about.jpg "Mono Lake pano"
 
+<br>
+
 

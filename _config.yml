@@ -29,6 +29,11 @@ theme: jekyll-swiss
 plugins:
   - jekyll-feed
   - jekyll-analytics
+  - jekyll-paginate
+
+#paginator settings
+paginate: 7
+paginate_path: "/tisqui.github.io/page:num/"
 
 #Disqus settings
 disqus_shortname: ca-ghost-towns  
