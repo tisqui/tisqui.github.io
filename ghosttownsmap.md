@@ -92,6 +92,12 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 			<h2>K</h2>
 			<br>Keane Wonder Mine
 			<br><a href="/2017/10/01/keeler.html">Keeler</a>
+			<br><a href="/2017/10/19/Kent.html">Kent Farm</a>
+			<h2></h2>
+		</td>
+		<td valign="top">
+			<h2>L</h2>
+			<br><a href="/2017/10/30/Lairds-landing.html">Lairds Landing</a>
 			<h2></h2>
 		</td>
 		<td valign="top">
@@ -101,14 +107,19 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 			<br>Masonic
 			<h2></h2>
 		</td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<h2>N</h2>
+			<br><a href="/2017/11/07/Navarro.html">Navarro-by-the-sea</a>
+			<h2></h2>
+		</td>
 		<td valign="top">
 			<h2>P</h2>
 			<br>Panamint City
 			<br>Petrolia
 			<h2></h2>
 		</td>
-	</tr>
-	<tr>
 		<td valign="top">
 			<h2>R</h2>
 			<br><a href="/2017/09/26/randsburg.html">Randsburg</a>
@@ -124,6 +135,8 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 			<br>Silver City
 			<h2></h2>
 		</td>
+	</tr>
+	<tr>
 		<td valign="top">
 			<h2>T</h2>
 			<br>Titus Canyon
