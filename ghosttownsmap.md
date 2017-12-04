@@ -186,3 +186,15 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 		</td>
 	</tr>
 </table>
+
+<h2>Florida</h2>
+
+<table>
+	<tr>
+		<td valign="top">
+			<h2>K</h2>
+			<br><a href="/2017/12/03/Koreshan.html">Koreshan</a>
+			<h2></h2>
+		</td>
+	</tr>
+</table>
