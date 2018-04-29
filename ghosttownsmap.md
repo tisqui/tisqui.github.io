@@ -162,6 +162,11 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 <table>
 	<tr>
 		<td valign="top">
+			<h2>C</h2>
+			<br><a href="/2018/04/06/Carrara.html">Carrara: Elizalde Cement Plant</a>
+			<h2></h2>
+		</td>
+		<td valign="top">
 			<h2>D</h2>
 			<br><a href="/2017/10/11/dayton.html">Dayton</a>
 			<h2></h2>
@@ -177,18 +182,19 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 			<br><a href="/2017/10/08/Gold-hill.html">Gold Hill</a>
 			<h2></h2>
 		</td>
+	</tr>
+	<tr>
 		<td valign="top">
 			<h2>S</h2>
 			<br><a href="/2017/10/09/Silver-city.html">Silver City</a>
 			<h2></h2>
 		</td>
-	</tr>
-	<tr>
 		<td valign="top">
 			<h2>V</h2>
 			<br><a href="/2017/10/06/Virginia-city.html">Virginia City</a>
 			<h2></h2>
 		</td>
+
 	</tr>
 </table>
 
