@@ -68,6 +68,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 			<h2>G</h2>
 			<br><a href="/2017/09/27/garlock.html">Garlock</a>
 			<br><a href="/2017/10/08/Gold-hill.html">Gold Hill</a>
+			<br><a href="/2018/08/26/Goldfield.html">Goldfield</a>
 		</td>
 		<td valign="top">
 			<h2>H</h2>
