@@ -19,6 +19,7 @@ This is the map of the ghost towns I visited/plan to visit in the neares future
 			<h2>A</h2>
 			<br>Amador City
 			<br>Amboy
+			<br><a href="/2020/04/02/Aguerreberry.html">Aguereberry Camp /Eureka Mine /Harrisburg</a>
 			<br>Ashford Mills Ruins
 			<br>Atolia
 			<h2></h2>
