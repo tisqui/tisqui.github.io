@@ -27,4 +27,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'jekyll-analytics'
 gem 'jekyll-paginate'
-
+gem "kramdown", ">= 2.3.0"
