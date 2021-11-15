@@ -4,7 +4,7 @@ title: About this blog
 permalink: /about/
 ---
 
-My name is Galina. I live in Bay Area, California. My hobby is travelling around the state and discovering ghost towns. I am sharing my photos and some history I found online about the each one. Hope this will encourage someone to have a trip and document the dissapearing mining towns in their current state.
+My name is Gala. I live in Bay Area, California. My hobby is travelling around the states and discovering ghost towns. I am sharing my photos and some history I found online about the each one. Hope this will encourage someone to have a trip and document the dissapearing mining towns in their current state.
 
 ![Sierra][sierra] 
 
